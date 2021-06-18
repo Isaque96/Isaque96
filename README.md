@@ -44,5 +44,5 @@ Working with a team will be awesome for me to grow faster and learn, also good t
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" widtf="40" height="40" style="max-width:100%;"></img>
 
 
-![Isaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaque&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque&layout=compact)](https://github.com/Isaque96/github-readme-stats)
+![Isaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaque96&show_icons=true&theme=nightowl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque96&layout=compact)](https://github.com/Isaque96/github-readme-stats)
