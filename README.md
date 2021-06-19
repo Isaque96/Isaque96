@@ -10,11 +10,11 @@ Now I'm looking for a start at the developer career, some oportunity for me to l
 Working with a team will be awesome for me to grow faster and learn, also good to see a big project comming alive!
 
 ## Menu
-  - [📱 Contact](#-contact-)
-  - [👩‍💻 Skills](#-skills-)
+  - [📱 Contact 🔝](#-contact-)
+  - [👩‍💻 Skills 🔝](#-skills-)
 
 
-## 📱 Contact
+## 📱 Contact [🔝]
 
 <a href="https://api.whatsapp.com/send?phone=5524981098990&text=Obrigado%20por%20entrar%20em%20contato!" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> 
@@ -27,7 +27,7 @@ Working with a team will be awesome for me to grow faster and learn, also good t
 <a/>
   
   
-## 👩‍💻 Skills
+## 👩‍💻 Skills [🔝]
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" widtf="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" widtf="40" height="40" style="max-width:100%;"></img>
